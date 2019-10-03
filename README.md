@@ -1,2 +1,2 @@
-# new-app-ionic
+# news-app-ionic
 android news application
